@@ -1,0 +1,22 @@
+{
+  "name": "eve-client",
+  "version": "0.0.1",
+  "description": "eve-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrincessEve/eve-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrincessEve/eve-client/issues"
+  },
+  "homepage": "https://github.com/PrincessEve/eve-client#readme",
+  "dependencies": {
+    "jayson": "^2.0.5"
+  }
+}
